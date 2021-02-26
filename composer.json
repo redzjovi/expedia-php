@@ -1,0 +1,16 @@
+{
+    "name": "redzjovi/expedia-php",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jovi",
+            "email": "jovi.anto@misteraladin.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Redzjovi\\ExpediaPhp\\": "src/"
+        }
+    }
+}
